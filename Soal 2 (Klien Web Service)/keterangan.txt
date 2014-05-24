@@ -1,0 +1,14 @@
+Buatlah klien web service menggunakan Python Suds atau library lain yang sejenis.
+
+a. Konsumsilah web service yang menyediakan data harga saham TELKOM INDONESIA di New York Stock Exchange (NYSE) pada alamat http://www.webservicex.net/stockquote.asmx
+   Parsinglah data XML hasil dari konsumsi web service tersebut. Sehingga, didapatkan tampilan yang lebih informatif.
+
+b. Konsumsilah web service yang menyediakan layanan konversi mata uang dari USD (US Dollar) ke IDR (Indonesian Rupiah) pada alamat http://www.webservicex.net/CurrencyConvertor.asmx   
+
+c. Konsumsilah web service yang menyediakan data cuaca untuk kota (Jakarta, Indonesia) pada alamat http://www.webservicex.net/globalweather.asmx
+   Parsinglah data XML hasil dari konsumsi web service tersebut. Sehingga, didapatkan tampilan yang lebih informatif.
+   
+Referensi:
+1. https://smudali.wordpress.com/2012/05/29/log-soap-request-response-in-python/
+2. https://fedorahosted.org/suds/
+3. http://docs.python.org/2/library/xml.etree.elementtree.html
